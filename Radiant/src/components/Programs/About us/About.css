@@ -1,0 +1,38 @@
+.About{
+    margin: 70px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 90%;
+}
+.About-left{
+    flex-basis: 40%;
+    position: relative;
+}
+.About-right{
+    flex-basis: 56%;
+}
+.leftImage{
+    width: 100%;
+    border-radius: 12px;
+}
+.playicon{
+    width: 60px;
+    position: absolute;
+    left: 50%;
+    right: 50%;
+    top:50%;
+    transform: translate(-50%,-50%);
+    }
+.About h3{
+    font-weight: 600;
+    color: blue;
+
+}
+.About h2{
+    font-size: 35px;
+    color: #2f374d;
+}
+.About p{
+    margin: 10px;
+}
