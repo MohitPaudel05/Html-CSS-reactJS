@@ -2,7 +2,7 @@ import React from 'react'
 import Navbar from './components/Navbar'
 import Hero from './components/Hero/Hero'
 import Program from './components/Programs/Program'
-import About from './components/Programs/About us/About'
+import About from './components/About us/About'
 
 const App = () => {
   return (

@@ -1,7 +1,7 @@
 import React from 'react'
 import './About.css'
-import leftImage from "../../../assets/blog-recent-3.jpg"
-import playicon from "../../../assets/playicon.png"
+import leftImage from "../../assets/blog-recent-3.jpg"
+import playicon from "../../assets/playicon.png"
 
 const About = () => {
   return (
